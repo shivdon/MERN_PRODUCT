@@ -1,0 +1,75 @@
+h6 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0.16px;
+}
+
+p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  /* or 113% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.169679px;
+
+  color: rgba(0, 0, 0, 0.5);
+}
+
+label {
+  float: left;
+  text-align: left;
+  background: #fbfbff;
+  border: 0.678715px solid #d6e4ec;
+  box-sizing: border-box;
+  border-radius: 5.42972px;
+  width: 100%;
+  height: 35px;
+  color: #d6e4ec;
+  padding: 5px 0px 5px 8px;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+form {
+  background-color: #fff;
+}
+
+.icon-pos {
+  float: right;
+  margin: 3px 8px;
+  font-size: large;
+  font-weight: bolder;
+}
+
+.form-input {
+  background: #fbfbff;
+  border: 0.678715px solid #d6e4ec;
+  box-sizing: border-box;
+  border-radius: 5.42972px;
+}
+
+.form-container {
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0px 0px 10px 0px;
+  text-align: left;
+}
+
+.form-element {
+  margin-bottom: 30px;
+}
+
+.area {
+  width: 100%;
+  height: 80px;
+}
+
+.butn {
+  width: 100%;
+}
